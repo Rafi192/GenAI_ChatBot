@@ -139,6 +139,10 @@ This gives you a simple web interface to:
 }
 
 ```
+---
+## Screenshots
+
+![Main application window](/GenAI_ChatBot/ss/ss1.png)
 
 ---
 
